@@ -13,8 +13,4 @@ spring:
     hibernate:
       ddl-auto: update
 
-demo:
-  api:
-    base-path: http://localhost:8081
-
 
